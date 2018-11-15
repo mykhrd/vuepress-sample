@@ -3,7 +3,6 @@ module.exports = {
   description: 'Netlify + VuePress',
   themeConfig: {
     docsDir: 'docs',
-    repo: 'andreliem/vuepress-netlify-cms',
     sidebar: [
       '/',
       '/welcome',
